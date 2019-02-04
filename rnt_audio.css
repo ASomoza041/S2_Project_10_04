@@ -14,7 +14,7 @@
 */
 
 /* Audio Styles */
-/* The audio styles simply provide cod that changes the look of the controls that the user uses to interact with the audio.  */
+/* The audio styles simply provides code that changes the look of the controls that the user uses to interact with the audio. It changes the color and spacing. I gave the element a border radius in order to make the display of block look more appealing.  */
 audio {
     display: block;
     box-shadow: 8px 8px 15px darkgray;
